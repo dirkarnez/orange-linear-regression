@@ -1,5 +1,6 @@
 orange-linear-regression
 ========================
+From https://github.com/StepfenShawn/Cantonese/blob/main/README.md
 ```
 使下 math
 |300.0 , 400.0 , 400.0 , 550.0 , 720.0 , 850.0 , 900.0 , 950.0| 拍住上 -> |X|
