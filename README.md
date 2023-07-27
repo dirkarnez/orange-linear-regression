@@ -14,5 +14,5 @@ y=0.530960991635149x+189.75347155122432
 ```
 
 ### TODOs
-- [ ] sklearn version
+- [x] sklearn version
   - [dirkarnez/sklearn-linear-regression](https://github.com/dirkarnez/sklearn-linear-regression)
