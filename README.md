@@ -10,4 +10,4 @@ From https://github.com/StepfenShawn/Cantonese/blob/main/README.md
 
 ### TODOs
 - [ ] sklearn version
-  - [Linear Regression in 2 minutes - YouTube](https://www.youtube.com/watch?v=CtsRRUddV2s)
+  - [dirkarnez/sklearn-linear-regression](https://github.com/dirkarnez/sklearn-linear-regression)
